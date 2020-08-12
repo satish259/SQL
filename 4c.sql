@@ -1,0 +1,1 @@
+SELECT city_name AS cities FROM City WHERE city_hemisphere='N' AND city_population>10000000;
